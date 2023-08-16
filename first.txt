@@ -3,7 +3,7 @@
 <body>
 
 <h1>My My Heading</h1>
-<p>My My paragraph!!</p>
+<p>Here's my first paragraph!!</p>
 
 </body>
 </html>
